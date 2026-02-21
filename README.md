@@ -1,2 +1,2 @@
-# OpenCV-Python
-Small demo with OpenCV-Python library for processing Landsat7 satellite images.
+# CNN
+Small demo with CNN for processing Landsat7 satellite images.
